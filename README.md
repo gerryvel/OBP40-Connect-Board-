@@ -1,5 +1,6 @@
-# OPB40-Connect-Board-
+# OPB40-Connect-Board
 Connectionboard for OPB40 with NMEA2000, I2C and NMEA0183
+OPB40 it a mini version from OPB60 https://github.com/norbert-walter/esp32-nmea2000-obp60
 
 ![KiCad](https://img.shields.io/badge/KiCad-darkblue?logo=KiCad)
 ![Relaise](https://img.shields.io/github/release-date/gerryvel/OPB40-Connect-Board-?)
