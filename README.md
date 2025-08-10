@@ -1,6 +1,3 @@
-# OPB40-Connect-Board
-Connectionboard for OPB40 with NMEA2000, I2C and NMEA0183
-OPB40 it a mini version from OPB60 https://github.com/norbert-walter/esp32-nmea2000-obp60
 
 ![KiCad](https://img.shields.io/badge/KiCad-darkblue?logo=KiCad)
 ![Relaise](https://img.shields.io/github/release-date/gerryvel/OPB40-Connect-Board-?)
@@ -10,7 +7,8 @@ OPB40 it a mini version from OPB60 https://github.com/norbert-walter/esp32-nmea2
 
 ## Description
 
-This board is for connect to the 20p-plug on the OPB40 (elecrow Display) and the case from @norbert-walter
+This board is for connect to the 20p-plug on the OPB40 (elecrow Display) and the case from @norbert-walter.
+https://github.com/norbert-walter/esp32-nmea2000-obp60
 Included: N2k interface with 12/5V Stepdown, I2C connector, NMEA0183 connector and voltage divider for measuring battery voltage.
 
 # Foto
