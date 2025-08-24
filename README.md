@@ -24,7 +24,8 @@ Function:
 
 ## Circuit diagram 
 
-<img width="3507" height="2480" alt="grafik" src="https://github.com/user-attachments/assets/19a65537-815b-4eef-84ac-139430593241" />
+<img width="3507" height="2480" alt="grafik" src="https://github.com/user-attachments/assets/138c2c1b-f21d-4d66-a7eb-fb3ef38d9852" />
+
 
 ## Boarddesign
 
