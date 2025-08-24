@@ -28,5 +28,6 @@ Function:
 
 ## Boarddesign
 
-<img width="1415" height="934" alt="grafik" src="https://github.com/user-attachments/assets/0cf54e36-744e-4bda-81bd-8b42b5fa61f4" />
+<img width="1415" height="934" alt="grafik" src="https://github.com/user-attachments/assets/bfcee918-8740-4566-9dc4-eff2f4e6e65d" />
+
 
