@@ -8,7 +8,7 @@
 ## Description
 
 This board it's an addon to: https://github.com/norbert-walter/esp32-nmea2000-obp60.
-It's for connect to the 20p-plug on the OPB40 (elecrow Display) and the case from [@norbert-walter].
+It's for connect to the 20p-plug on the OBP40 (elecrow Display) and the case from [@norbert-walter].
 Function: 
 - N2k interface
 - 12/5V Stepdown converter
