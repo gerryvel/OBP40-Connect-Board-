@@ -7,15 +7,21 @@
 
 ## Description
 
-This board is for connect to the 20p-plug on the OPB40 (elecrow Display) and the case from [@norbert-walter].
-It's an addon to: https://github.com/norbert-walter/esp32-nmea2000-obp60.
-Included: N2k interface with 12/5V Stepdown, I2C connector, NMEA0183 connector and voltage divider for measuring battery voltage.
+This board it's an addon to: https://github.com/norbert-walter/esp32-nmea2000-obp60.
+It's for connect to the 20p-plug on the OPB40 (elecrow Display) and the case from [@norbert-walter].
+Function: 
+- N2k interface
+- 12/5V Stepdown converter
+- I2C connector
+- NMEA0183 connector
+- voltage divider for measuring battery voltage
+12V supply use N2K, I2C power supply is 3,3V from elecrow Display. I2C board is eqipped with varios connectors for sensors etc.
 
-# Foto
+## Foto
 
 ![image](https://github.com/user-attachments/assets/ad747a7b-7ef3-4c46-92e2-a507261d99b9)
 ![image](https://github.com/user-attachments/assets/8be8eed0-7130-465a-9560-6a1f416a1f13)
 
-
+## Circuit diagram 
 
 
