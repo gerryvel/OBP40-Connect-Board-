@@ -21,8 +21,9 @@ Function:
 
 ## Foto
 
-![image](https://github.com/user-attachments/assets/ad747a7b-7ef3-4c46-92e2-a507261d99b9)
-![image](https://github.com/user-attachments/assets/8be8eed0-7130-465a-9560-6a1f416a1f13)
+![image](https://github.com/user-attachments/assets/ed229efe-5f5f-486f-a3b6-d562591d951b)
+![image](https://github.com/user-attachments/assets/e4e4cad4-ea1c-4c35-ac2c-3bbabf4c07f0)
+![image](https://github.com/user-attachments/assets/da8698ef-64d5-4a60-9b35-fa594ddab3bc)
 
 ## Circuit diagram 
 
