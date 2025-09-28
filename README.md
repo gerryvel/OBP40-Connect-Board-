@@ -32,23 +32,23 @@ If you use only I2C funtion, this connect only to board and you dont need 12V Co
 
 ## Partlist
 
-BT1, LIPO 3,7V 1200mAh
-C3, 10µ,Capacitor_Tantalum_SMD
-C4, 22,Capacitor_Tantalum_SMD
-D1, B230A
-D2, SMAJ5.0CA
-D3, P4SMAJ26CA
-D4, PRTR5V0U2X
-D5, PESD1CAN
-FL1, EPCO B82789C0513
-J1, J2, J4, J5, J6, J10, Connector_PinHeader_2.54mm
-J3, Conn_01x20_Pin,C onnector_PinHeader_2.54mm
-J7, Conn_01x04_Pin, Connector_PinHeader_2.54mm
-J8,J11,J12,J13,J14,J15,J16,Connector_JST:JST_PH_S4B-PH-K
-R1,R2, 10k
-RV1, EPC B72530T0300
-U2, TSR1-2450
-U3, TCAN332
+- BT1, LIPO 3,7V 1200mAh
+- C3, 10µ,Capacitor_Tantalum_SMD
+- C4, 22,Capacitor_Tantalum_SMD
+- D1, B230A
+- D2, SMAJ5.0CA
+- D3, P4SMAJ26CA
+- D4, PRTR5V0U2X
+- D5, PESD1CAN
+- FL1, EPCO B82789C0513
+- J1, J2, J4, J5, J6, J10, Connector_PinHeader_2.54mm
+- J3, Conn_01x20_Pin,C onnector_PinHeader_2.54mm
+- J7, Conn_01x04_Pin, Connector_PinHeader_2.54mm
+- J8,J11,J12,J13,J14,J15,J16,Connector_JST:JST_PH_S4B-PH-K
+- R1,R2, 10k
+- RV1, EPC B72530T0300
+- U2, TSR1-2450
+- U3, TCAN332
 
 ## Boarddesign
 
