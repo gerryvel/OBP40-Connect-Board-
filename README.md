@@ -18,7 +18,7 @@ Function:
 - voltage divider for measuring battery voltage
 
 12V supply use N2K, I2C power supply is 3,3V from elecrow Display. I2C board is eqipped with varios connectors for sensors etc.
-If you use only I2C funtion, this connect only to board and you dont need 12V Converter.
+If you use only I2C funtion, this connect only to board and you don't need the 12V/5V Converter.
 
 ## Foto
 
