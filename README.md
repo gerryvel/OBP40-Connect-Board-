@@ -31,7 +31,7 @@ If you use only I2C funtion, this connect only to board and you don't need the 1
 <img width="3507" height="2480" alt="grafik" src="https://github.com/user-attachments/assets/262a00c8-9f63-401c-81e4-83c8ee02143e" />
 
 Link to Aisler for PCB Board.https://aisler.net/p/XZHLUZKY
-[![PCB by Aisler](https://img.shields.io/badge/PCB-by-Aisler-blue)](https://aisler.net/p/XZHLUZKY))
+[![PCB by Aisler](https://img.shields.io/badge/PCB-by-Aisler-blue)](https://aisler.net/p/XZHLUZKY)
 
 ## Partlist
 
