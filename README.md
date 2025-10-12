@@ -28,7 +28,8 @@ If you use only I2C funtion, this connect only to board and you don't need the 1
 
 ## Circuit diagram 
 
-<img width="3507" height="2480" alt="grafik" src="https://github.com/user-attachments/assets/138c2c1b-f21d-4d66-a7eb-fb3ef38d9852" />
+<img width="3507" height="2480" alt="grafik" src="https://github.com/user-attachments/assets/262a00c8-9f63-401c-81e4-83c8ee02143e" />
+
 
 ## Partlist
 
