@@ -3,7 +3,7 @@
 ![Relaise](https://img.shields.io/github/release-date/gerryvel/OPB40-Connect-Board-?)
 ![lastcommit](https://img.shields.io/github/last-commit/gerryvel/OPB40-Connect-Board-)
 [![OBP](https://img.shields.io/badge/Sailing_with-OpenBoatsProjects-blue)](https://open-boat-projects.org/de/)
-[![PCB](https://img.shields.io/badge/PCB-byAisler-blue)](https://aisler.net/p/XZHLUZKY)
+[![PCB](https://img.shields.io/badge/PCB-byAisler-red)](https://aisler.net/p/XZHLUZKY)
 
 ## Description
 
