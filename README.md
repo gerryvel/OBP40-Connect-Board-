@@ -29,7 +29,7 @@ If you use only I2C funtion, this connect only to board and you don't need the 1
 ## Circuit diagram 
 
 <img width="3507" height="2480" alt="grafik" src="https://github.com/user-attachments/assets/00fa9494-8cfe-4e7c-8e56-7ff75df84c7a" />
-PCB by Aisler: [Link](https://aisler.net/p/XZHLUZKY)
+[![PCB](https://img.shields.io/badge/PCB-byAisler-red)](https://aisler.net/p/XZHLUZKY)
 
 ## Partlist
 
