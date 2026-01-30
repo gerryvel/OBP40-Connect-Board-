@@ -22,6 +22,7 @@ If you use only I2C funtion, this connect only to board and you don't need the 1
 
 ## Foto
 
+Images V1.1
 ![image](https://github.com/user-attachments/assets/ed229efe-5f5f-486f-a3b6-d562591d951b)
 ![image](https://github.com/user-attachments/assets/e4e4cad4-ea1c-4c35-ac2c-3bbabf4c07f0)
 ![image](https://github.com/user-attachments/assets/da8698ef-64d5-4a60-9b35-fa594ddab3bc)
@@ -34,27 +35,27 @@ PCB by Aisler: [link](https://aisler.net/p/XZHLUZKY)
 
 ## Partlist
 
-C3,CP_EIA-7343-31_Kemet-D,1,10µ,
-C4,CP_EIA-7343-31_Kemet-D,1,22µ,
-D1,D_SMA,1,B230A,
-D2,D_SMA_TVS,1,SMAJ5.0CA,
-D3,D_SMA_TVS,1,P4SMAJ26CA,
-D4,SOT-143,1,PRTR5V0U2X,
-D5,SOT-23,1,PESD1CAN,
-FL1,B82789C0113N002,1,EPCO B82789C0513,
-J11,PinHeader_1x04_P2.54mm_Horizontal,1,I2C,
-J12,JST_PH_S4B-PH-K_1x04_P2.00mm_Horizontal,1,I2C,
-J13, J16,PinSocket_1x04_P2.54mm_Horizontal,2,I2C,
-J15,JST_SH_SM04B-SRSS-TB_1x04-1MP_P1.00mm_Horizontal,1,I2C,
-J3,PinHeader_2x10_P2.54mm_Vertical,1,Conn_01x20_Pin,
-J4,Molex_KK-254_AE-6410-02A_1x02_P2.54mm_Vertical,1,Conn_01x02_Pin,
-J6,PinHeader_1x02_P2.54mm_Vertical,1,~,
-J7,PinHeader_1x04_P2.54mm_Vertical,1,Conn_01x04_Pin,
-J8,PinSocket_1x04_P2.54mm_Vertical,1,I2C,
-R1, R2,1206,2,10k,
-RV1,1210,1,EPC B72530T0300,
-U2,Converter_DCDC_TRACO_TSR-1_THT,1,TSR1-2450,
-U3,SOIC-8_3.9x4.9mm_P1.27mm,1,TCAN332,
+- C3,CP_EIA-7343-31_Kemet-D,1,10µ,
+- C4,CP_EIA-7343-31_Kemet-D,1,22µ,
+- D1,D_SMA,1,B230A,
+- D2,D_SMA_TVS,1,SMAJ5.0CA,
+- D3,D_SMA_TVS,1,P4SMAJ26CA,
+- D4,SOT-143,1,PRTR5V0U2X,
+- D5,SOT-23,1,PESD1CAN,
+- FL1,B82789C0113N002,1,EPCO B82789C0513,
+- J11,PinHeader_1x04_P2.54mm_Horizontal,1,I2C,
+- J12,JST_PH_S4B-PH-K_1x04_P2.00mm_Horizontal,1,I2C,
+- J13, J16,PinSocket_1x04_P2.54mm_Horizontal,2,I2C,
+- J15,JST_SH_SM04B-SRSS-TB_1x04-1MP_P1.00mm_Horizontal,1,I2C,
+- J3,PinHeader_2x10_P2.54mm_Vertical,1,Conn_01x20_Pin,
+- J4,Molex_KK-254_AE-6410-02A_1x02_P2.54mm_Vertical,1,Conn_01x02_Pin,
+- J6,PinHeader_1x02_P2.54mm_Vertical,1,~,
+- J7,PinHeader_1x04_P2.54mm_Vertical,1,Conn_01x04_Pin,
+- J8,PinSocket_1x04_P2.54mm_Vertical,1,I2C,
+- R1, R2,1206,2,10k,
+- RV1,1210,1,EPC B72530T0300,
+- U2,Converter_DCDC_TRACO_TSR-1_THT,1,TSR1-2450,
+- U3,SOIC-8_3.9x4.9mm_P1.27mm,1,TCAN332,
 
 
 ## Boarddesign
