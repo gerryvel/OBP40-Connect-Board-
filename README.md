@@ -65,8 +65,8 @@ PCB by Aisler: [link](https://aisler.net/p/XZHLUZKY)
 
 ## Versions
 
-1.3 Change Connector J4 to Molex KK
-1.2 Change all SMD Parts to Side2 for automatic assembly
-1.1 Change lettering PCB for NMEA2000 Connector
-1.0 Initial
+- 1.3 Change Connector J4 to Molex KK
+- 1.2 Change all SMD Parts to Side2 for automatic assembly
+- 1.1 Change lettering PCB for NMEA2000 Connector
+- 1.0 Initial
 
